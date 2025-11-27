@@ -1,6 +1,11 @@
 # Beacon: A gateway to freedom tech
 
-![freedom_tech_meme](https://github.com/user-attachments/assets/622123cc-86e0-4365-9bbf-73d2ffe56685)
+Lighting in WhatsApp
+https://blossom.primal.net/f56be68b58aa87cf0006d6d2fc69a59e8d6e4b36a73efa31de547ce53569873f.mp4
+
+Onboarding
+
+
 
 ### Why Beacon? 
 
@@ -19,3 +24,5 @@ WhatsApp is not an ideal chat network and we wouldn't want people stuck their lo
 Beacon is not to be "the wallet to end them all" it is to provide a pragmatic entry point.
 
 A trojan horse for freedom tech.
+
+![freedom_tech_meme](https://github.com/user-attachments/assets/622123cc-86e0-4365-9bbf-73d2ffe56685)
