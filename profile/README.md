@@ -7,7 +7,7 @@ https://blossom.primal.net/f56be68b58aa87cf0006d6d2fc69a59e8d6e4b36a73efa31de547
 Onboarding (Video Demo Live at Sov Eng!)
 https://r2a.primal.net/uploads2/8/31/50/8315018b9b601d17269e36a7aa82c98370bf285be8ea741ff60da8c923220a4c.mov
 
-### Why Beacon? 
+## Why Beacon? 
 
 > On the island of Pharos the Ptolemies lit a beacon that turned Alexandria into the nerve-centre of the ancient world, guiding mariners safely into the port of liberty, knowledge and freedom. 
 > With free acess to information we can find our own solutions and build our own freedom. The library of Alexandria once represented this freedom but was lost to time. 
@@ -24,5 +24,17 @@ WhatsApp is not an ideal chat network and we wouldn't want people stuck their lo
 Beacon is not to be "the wallet to end them all" it is to provide a pragmatic entry point.
 
 A trojan horse for freedom tech.
+
+## The Trust Model
+
+This is based on a two factor approach. Two seperate services are combined to run a Beacon, the ID and the Brain.
+
+The concept is one where you could have 1000's to Millions of ID servers and 10-100s of Brains. 
+
+The ID server holds the important pieces - your key and signs off on and approves any spends or sgns events for Nostr. You can even self host and bring your own ID server by running a simple app (no internet routing config required) on a simple Raspi or alterative. 
+
+The Brain does the heavy lift, it will examine your messages, understand the intenet of what you are trying to achieve, allow you to undrstake complex interactions, all thorugh a chat interfce. This requires access to AI models and is more complex to run. The expectation here is that a small market of providers can sell AI services here to sell AI services and Information to an otherwise captive market. 
+
+<img width="1038" height="905" alt="image" src="https://github.com/user-attachments/assets/c7d4f0c0-8f90-481b-b09d-21727f823ce4" />
 
 ![freedom_tech_meme](https://github.com/user-attachments/assets/622123cc-86e0-4365-9bbf-73d2ffe56685)
