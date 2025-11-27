@@ -35,6 +35,6 @@ The ID server holds the important pieces - your key and signs off on and approve
 
 The Brain does the heavy lift, it will examine your messages, understand the intenet of what you are trying to achieve, allow you to undrstake complex interactions, all thorugh a chat interfce. This requires access to AI models and is more complex to run. The expectation here is that a small market of providers can sell AI services here to sell AI services and Information to an otherwise captive market. 
 
-<img width="1038" height="905" alt="image" src="https://github.com/user-attachments/assets/c7d4f0c0-8f90-481b-b09d-21727f823ce4" />
+<img width="1038" height="905" alt="image" src="https://github.com/user-attachments/assets/10afab7a-c620-4895-b8d4-33d5db47ee9a" />
 
 ![freedom_tech_meme](https://github.com/user-attachments/assets/622123cc-86e0-4365-9bbf-73d2ffe56685)
