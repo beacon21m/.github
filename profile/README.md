@@ -37,4 +37,14 @@ The Brain does the heavy lift, it will examine your messages, understand the int
 
 <img width="1038" height="905" alt="image" src="https://github.com/user-attachments/assets/10afab7a-c620-4895-b8d4-33d5db47ee9a" />
 
+A novel concept used in the app is to take what would usually be a single custodial service and split it into multiple parts all connected over Nostr. This has a direct impact on the trust model as suddenly you can run the most component of the app, the signing of messages that approve spend or identity action, seperately to your main business logic. This allows a service provider to offer a complex service like runnign AI models without hold the key. 
+
+The key an instead be held at the personal, family, community or business level. 
+
+## Target Networks
+
+So far we have had success runnning Beacon on WhatsApp continually and have had working prototypes on Signal, Qual (mesh) and Nostr DMs. We are keen to expand on this and have a pluaggable gateway to allow devs to create new adaptors to a simple REST and SSE interface. 
+
+The goal is no more walled gardens, Bitcoin everywhere and everyone gets an Npub. 
+
 ![freedom_tech_meme](https://github.com/user-attachments/assets/622123cc-86e0-4365-9bbf-73d2ffe56685)
