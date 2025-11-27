@@ -33,7 +33,7 @@ The concept is one where you could have 1000's to Millions of ID servers and 10-
 
 The ID server holds the important pieces - your key and signs off on and approves any spends or sgns events for Nostr. You can even self host and bring your own ID server by running a simple app (no internet routing config required) on a simple Raspi or alterative. 
 
-The Brain does the heavy lift, it will examine your messages, understand the intenet of what you are trying to achieve, allow you to undrstake complex interactions, all thorugh a chat interfce. This requires access to AI models and is more complex to run. The expectation here is that a small market of providers can sell AI services here to sell AI services and Information to an otherwise captive market. 
+The Brain does the heavy lift, it will examines the incoming messages, understands the intent of what you are trying to achieve and allows you to undertake complex interactions, all through a chat interface. This requires access to AI models and is more complex to run. The expectation here is that a small market of providers can sell AI services here to sell AI services and Information to an otherwise captive market. Critically the Brain provider and the ID provider do not need to know each other, the user chooses the two service providers and makes the link via pubkeys. 
 
 <img width="1038" height="905" alt="image" src="https://github.com/user-attachments/assets/10afab7a-c620-4895-b8d4-33d5db47ee9a" />
 
