@@ -1,11 +1,10 @@
 # Beacon: A gateway to freedom tech
 
-Lighting in WhatsApp
-https://blossom.primal.net/f56be68b58aa87cf0006d6d2fc69a59e8d6e4b36a73efa31de547ce53569873f.mp4
+Lighting in WhatsApp (Video Demo)
+<video src="https://blossom.primal.net/f56be68b58aa87cf0006d6d2fc69a59e8d6e4b36a73efa31de547ce53569873f.mp4" controls width="600"></video>
 
-Onboarding
-
-
+Onboarding (Video Demo Live at Sov Eng!)
+<video src="https://r2a.primal.net/uploads2/8/31/50/8315018b9b601d17269e36a7aa82c98370bf285be8ea741ff60da8c923220a4c.mov" controls width="600"></video>
 
 ### Why Beacon? 
 
